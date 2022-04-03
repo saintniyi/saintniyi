@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saintniyi
 - 👀 I’m interested in Data Analytics, Data Integration, SQL Query, Office automations and Programming
-- 🌴 I have used several technologies e.g.: C#, VB, VBA, Python, Power BI, SQL, T-SQL, PL-SQL, SSIS & SSRS
+- 🌴 I have used several technologies e.g.: C#, VB, VBA, Python, Power BI, SQL, T-SQL, PL-SQL
 - 🌱 I’m currently working on data analytic with Python
 - 💞️ I’m looking to work on Data Analytics, SQL Development and Office Automations
 - 📫 How to reach me ...
